@@ -8,7 +8,7 @@
 🌍 Driven to contribute to projects that focus on community engagement and impact.  
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OshaniKR" alt="OshaniKR" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OshaniKR" alt="OshaniKR" /></a> </p>-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -61,7 +61,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OshaniKR&show_icons=true&locale=en" alt="OshaniKR" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OshaniKR&show_icons=true&locale=en" alt="OshaniKR" /></p>-->
 
 
 
