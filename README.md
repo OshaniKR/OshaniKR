@@ -24,11 +24,28 @@ Data Engineering • Machine Learning  • Data Analysis  • Software Developme
 
 <h4 align="center">🚀 Programming Languages</h4>
 <p align="center">
+  <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/>
+
+  <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/>
+
+  <!-- C++ -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/>
+
+  <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/>
+
+  <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" height="55"/>
+
+  <!-- R -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="55" height="55"/>
+
+  <!-- Angular -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="55" height="55"/>
 </p>
+
 
 >
 
@@ -45,7 +62,7 @@ Data Engineering • Machine Learning  • Data Analysis  • Software Developme
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55"/>
-  <img src="https://www.svgrepo.com/show/373845/postgresql.svg" width="55"/>
+
 </p>
 
 <h4 align="center">🌐 Web Development</h4>
@@ -81,9 +98,13 @@ Data Engineering • Machine Learning  • Data Analysis  • Software Developme
 
 <h3 align="center">📈 GitHub Analytics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OshaniKR&show_icons=true&theme=radical" height="185"/>&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshaniKR&layout=compact&theme=radical" height="185"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OshaniKR&theme=radical" height="180" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OshaniKR&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshaniKR&layout=compact&theme=radical" height="180"/>
+</p>
+
 
 ---
 
