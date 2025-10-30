@@ -42,8 +42,7 @@ Data Engineering • Machine Learning  • Data Analysis  • Software Developme
   <!-- R -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="55" height="55"/>
 
-  <!-- Angular -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="55" height="55"/>
+ 
 </p>
 
 
@@ -54,7 +53,7 @@ Data Engineering • Machine Learning  • Data Analysis  • Software Developme
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Pandas_logo.svg" width="55"/>
+ 
 </p>
 
 <h4 align="center">🗄️ Databases</h4>
