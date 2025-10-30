@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oshani</h1>
-<h3 align="center">Computer Engineering Undergraduate | Data Engineering & AI/ML Enthusiast | Web Developer</h3>
+<h3 align="center">Computer Engineering Undergraduate | Software Engineering Intern | Data Engineering & AI/ML Enthusiast | Web Developer</h3>
 
 <p align="center">
 ✨ A passionate <b>Computer Engineering</b> undergraduate at the <b>University of Ruhuna</b> who loves transforming ideas into real-world solutions.  
 💡 Strong interest in <b>Data Engineering</b>, <b>Machine Learning</b>, and <b>Data Analytics</b>.  
+💼 Currently working as a <b>Software Engineering Intern</b>, contributing to scalable system design, backend development, cloud deployments, and team-based Agile workflows.  
 🔍 Focused on building scalable data pipelines, ETL processes, and intelligent systems.  
 🌐 Experienced in developing modern <b>web applications</b> using the MERN stack.  
 🚀 Continuously learning advanced topics in distributed computing, big data, and cloud technologies.  
@@ -14,7 +15,7 @@
 
 <h3 align="center">🧠 Core Competencies</h3>
 <p align="center">
-Data Engineering • Machine Learning • MLOps • Data Analysis • ETL Pipelines • API Development • Database Design  
+Data Engineering • Machine Learning  • Data Analysis  • Software Development • Database Design  
 </p>
 
 ---
@@ -29,13 +30,7 @@ Data Engineering • Machine Learning • MLOps • Data Analysis • ETL Pipeli
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/>
 </p>
 
-<h4 align="center">🧰 Data Engineering & Big Data</h4>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/AirflowLogo.png" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="55"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" width="55"/>
-</p>
+>
 
 <h4 align="center">🤖 Machine Learning & AI</h4>
 <p align="center">
@@ -55,18 +50,31 @@ Data Engineering • Machine Learning • MLOps • Data Analysis • ETL Pipeli
 
 <h4 align="center">🌐 Web Development</h4>
 <p align="center">
+  <!-- Angular -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="55"/>
+
+  <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55"/>
+
+  <!-- Node.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55"/>
+
+  <!-- Express -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55"/>
+
+  <!-- TailwindCSS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="55"/>
+
+  <!-- MERN Stack Badge -->
+  <img src="https://img.shields.io/badge/MERN-Stack-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&logoWidth=20" height="30"/>
 </p>
+
 
 <h4 align="center">☁️ Cloud & DevOps</h4>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="55"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/>
+  
 </p>
 
 ---
@@ -86,9 +94,4 @@ Data Engineering • Machine Learning • MLOps • Data Analysis • ETL Pipeli
 
 ---
 
-<h3 align="center">📫 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/oshanikr/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a>
-  <a href="mailto:oshani@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/></a>
-  <a href="https://github.com/OshaniKR" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/></a>
-</p>
+
