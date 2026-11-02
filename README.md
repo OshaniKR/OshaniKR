@@ -99,10 +99,6 @@ Data Engineering • Machine Learning  • Data Analysis  • Software Developme
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OshaniKR&theme=radical" height="180" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OshaniKR&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshaniKR&layout=compact&theme=radical" height="180"/>
-</p>
 
 
 ---
